@@ -1,0 +1,10 @@
+{
+  "name": "Verixa",
+  "description": "Intelligent Data Processing and Business Intelligence Platform. Automates multilingual information extraction, Python data cleaning, structured SQL persistence, and interactive business intelligence.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
